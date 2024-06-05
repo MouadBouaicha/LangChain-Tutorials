@@ -89,11 +89,3 @@ Handles user questions, performs a similarity search on the vector store, and re
 ### `main()`
 
 Main function that sets up the Streamlit application layout and handles user interactions.
-
-## Contributing
-
-Feel free to fork this repository and contribute by submitting a pull request. For major changes, please open an issue first to discuss what you would like to change.
-
-## License
-
-This project is licensed under the MIT License.
